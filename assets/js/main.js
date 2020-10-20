@@ -118,6 +118,7 @@
         centerPadding: '0px',
         slidesToShow: 5,
         focusOnSelect: true,
+        adaptiveHeight: true,
         responsive: [
             {
                 breakpoint: 1400,
