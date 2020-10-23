@@ -141,6 +141,7 @@ button, input[type="submit"] {
 
 img {
   max-width: 100%;
+  margin-top: 10px;
   height: auto;
 }
 
@@ -3027,7 +3028,7 @@ body.box-body {
 }
 
 .screen-mobile-image {
-  background-image: url(../images/screenshot/center-img.png);
+  background-image: url(../images/screenshot/samsung-mask.png);
   background-repeat: no-repeat;
   background-size: 100% 100%;
   display: block;
