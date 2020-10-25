@@ -1032,7 +1032,7 @@ body.box-body {
       height: 940px;
       background-position: 50% 0; } }
   .hero-slider .single-slide::after {
-    background: url(../images/slider/mockup-image1-1.png) no-repeat bottom right;
+    /* background: url(../images/slider/mockup-image1-1.png) no-repeat bottom right; */
     position: absolute;
     content: "";
     right: 0;
@@ -2587,7 +2587,7 @@ input:focus {
     - Download Area Css
 ------------------------*/
 .download-area {
-  padding: 100px 0 478px; }
+  padding: 100px 0 78px; }
   @media only screen and (min-width: 768px) and (max-width: 991px) {
     .download-area {
       padding: 80px 0 65px; } }
@@ -2637,7 +2637,7 @@ input:focus {
 -------------------------------*/
 .footer-content-area {
   background: #222;
-  padding-top: 170px; }
+  /* padding-top: 170px; } */
   .footer-content-area.fotter-content-two {
     padding-top: 0;
     background: #863F51; }
